@@ -59,7 +59,7 @@ double implied_vol(double S, double K, double r, double q, double T, double pric
 }
 
 int main() {
-    // Example usage
+
     double S = 100;
     double K = 100;
     double r = 0.05;
