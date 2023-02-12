@@ -1,6 +1,18 @@
 #include <iostream>
 #include <cmath>
 
+//Implied volatility is the market's forecast of a likely movement in a security's price.
+//It is a metric used by investors to estimate future fluctuations (volatility) of a security's price based on certain predictive factors. 
+//Implied volatility is denoted by the symbol σ (sigma). It can often be thought to be a proxy of market risk. It is commonly expressed using percentages and standard deviations over a specified time horizon.
+
+
+
+
+
+
+
+
+
 using namespace std;
 
 double bsprice(double S, double K, double r, double q, double T, double vol, char type) {
